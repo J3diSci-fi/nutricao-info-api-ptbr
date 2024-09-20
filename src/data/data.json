@@ -1,0 +1,829 @@
+{
+  "arroz_branco": {
+    "calorias": 130,
+    "proteinas": 2.7,
+    "carboidratos": 28.2,
+    "gorduras": 0.3,
+    "fibras": 0.4
+  },
+  "arroz_parboilizado": {
+    "calorias": 123,
+    "proteinas": 2.6,
+    "carboidratos": 26.0,
+    "gorduras": 0.3,
+    "fibras": 1.6
+  },
+  "feijao_preto": {
+    "calorias": 91,
+    "proteinas": 5.0,
+    "carboidratos": 16.4,
+    "gorduras": 0.4,
+    "fibras": 7.5
+  },
+  "feijao_carioca": {
+    "calorias": 94,
+    "proteinas": 6.6,
+    "carboidratos": 16.0,
+    "gorduras": 0.5,
+    "fibras": 8.3
+  },
+  "batata_doce": {
+    "calorias": 86,
+    "proteinas": 1.6,
+    "carboidratos": 20.1,
+    "gorduras": 0.1,
+    "fibras": 3.0
+  },
+  "batata_inglesa": {
+    "calorias": 77,
+    "proteinas": 2.0,
+    "carboidratos": 17.5,
+    "gorduras": 0.1,
+    "fibras": 2.2
+  },
+  "macarrao_integral": {
+    "calorias": 124,
+    "proteinas": 5.0,
+    "carboidratos": 26.0,
+    "gorduras": 0.7,
+    "fibras": 2.9
+  },
+  "macarrao_tradicional": {
+    "calorias": 131,
+    "proteinas": 4.8,
+    "carboidratos": 25.2,
+    "gorduras": 1.1,
+    "fibras": 1.2
+  },
+  "quinoa": {
+    "calorias": 120,
+    "proteinas": 4.1,
+    "carboidratos": 21.3,
+    "gorduras": 1.9,
+    "fibras": 2.8
+  },
+  "aveia": {
+    "calorias": 389,
+    "proteinas": 16.9,
+    "carboidratos": 66.3,
+    "gorduras": 6.9,
+    "fibras": 10.6
+  },
+
+  "banana": {
+    "calorias": 89,
+    "proteinas": 1.1,
+    "carboidratos": 22.8,
+    "gorduras": 0.3,
+    "fibras": 2.6
+  },
+  "maça": {
+    "calorias": 52,
+    "proteinas": 0.3,
+    "carboidratos": 13.8,
+    "gorduras": 0.2,
+    "fibras": 2.4
+  },
+  "laranja": {
+    "calorias": 43,
+    "proteinas": 1.0,
+    "carboidratos": 8.3,
+    "gorduras": 0.2,
+    "fibras": 2.2
+  },
+  "uva": {
+    "calorias": 69,
+    "proteinas": 0.7,
+    "carboidratos": 18.1,
+    "gorduras": 0.2,
+    "fibras": 0.9
+  },
+  "pera": {
+    "calorias": 57,
+    "proteinas": 0.4,
+    "carboidratos": 15.2,
+    "gorduras": 0.1,
+    "fibras": 3.1
+  },
+  "manga": {
+    "calorias": 60,
+    "proteinas": 0.8,
+    "carboidratos": 15.0,
+    "gorduras": 0.4,
+    "fibras": 1.6
+  },
+  "mamao": {
+    "calorias": 43,
+    "proteinas": 0.5,
+    "carboidratos": 10.8,
+    "gorduras": 0.3,
+    "fibras": 1.7
+  },
+  "abacaxi": {
+    "calorias": 50,
+    "proteinas": 0.5,
+    "carboidratos": 13.1,
+    "gorduras": 0.1,
+    "fibras": 1.4
+  },
+  "morango": {
+    "calorias": 32,
+    "proteinas": 0.7,
+    "carboidratos": 7.7,
+    "gorduras": 0.3,
+    "fibras": 2.0
+  },
+  "melancia": {
+    "calorias": 30,
+    "proteinas": 0.6,
+    "carboidratos": 7.6,
+    "gorduras": 0.2,
+    "fibras": 0.4
+  },
+  "abacate": {
+    "calorias": 160,
+    "proteinas": 2.0,
+    "carboidratos": 8.5,
+    "gorduras": 14.7,
+    "fibras": 6.7
+  },
+  "alface": {
+    "calorias": 15,
+    "proteinas": 1.4,
+    "carboidratos": 2.9,
+    "gorduras": 0.2,
+    "fibras": 1.3
+  },
+  "couve": {
+    "calorias": 35,
+    "proteinas": 2.9,
+    "carboidratos": 6.0,
+    "gorduras": 0.5,
+    "fibras": 2.6
+  },
+  "espinafre": {
+    "calorias": 23,
+    "proteinas": 2.9,
+    "carboidratos": 3.6,
+    "gorduras": 0.4,
+    "fibras": 2.2
+  },
+  "brocolis": {
+    "calorias": 34,
+    "proteinas": 2.8,
+    "carboidratos": 6.6,
+    "gorduras": 0.4,
+    "fibras": 2.6
+  },
+  "cenoura": {
+    "calorias": 41,
+    "proteinas": 0.9,
+    "carboidratos": 9.6,
+    "gorduras": 0.2,
+    "fibras": 2.8
+  },
+  "tomate": {
+    "calorias": 18,
+    "proteinas": 0.9,
+    "carboidratos": 3.9,
+    "gorduras": 0.2,
+    "fibras": 1.2
+  },
+  "pimentao_vermelho": {
+    "calorias": 31,
+    "proteinas": 1.0,
+    "carboidratos": 6.0,
+    "gorduras": 0.3,
+    "fibras": 2.1
+  },
+  "batata_doce_roxa": {
+    "calorias": 86,
+    "proteinas": 1.6,
+    "carboidratos": 20.1,
+    "gorduras": 0.1,
+    "fibras": 3.0
+  },
+  "beterraba": {
+    "calorias": 43,
+    "proteinas": 1.6,
+    "carboidratos": 9.6,
+    "gorduras": 0.2,
+    "fibras": 2.8
+  },
+  "abobora": {
+    "calorias": 26,
+    "proteinas": 1.0,
+    "carboidratos": 6.5,
+    "gorduras": 0.1,
+    "fibras": 0.5
+  },
+  "pepino": {
+    "calorias": 15,
+    "proteinas": 0.6,
+    "carboidratos": 3.6,
+    "gorduras": 0.1,
+    "fibras": 0.5
+  },
+  "repolho": {
+    "calorias": 25,
+    "proteinas": 1.3,
+    "carboidratos": 5.8,
+    "gorduras": 0.1,
+    "fibras": 2.5
+  },
+  "chuchu": {
+    "calorias": 19,
+    "proteinas": 0.8,
+    "carboidratos": 4.5,
+    "gorduras": 0.1,
+    "fibras": 1.7
+  },
+  "salsao": {
+    "calorias": 16,
+    "proteinas": 0.7,
+    "carboidratos": 3.0,
+    "gorduras": 0.2,
+    "fibras": 1.6
+  },
+  "couve_flor": {
+    "calorias": 25,
+    "proteinas": 1.9,
+    "carboidratos": 4.8,
+    "gorduras": 0.3,
+    "fibras": 2.0
+  },
+  "rucula": {
+    "calorias": 25,
+    "proteinas": 2.6,
+    "carboidratos": 3.7,
+    "gorduras": 0.7,
+    "fibras": 1.6
+  },
+  "melao": {
+    "calorias": 34,
+    "proteinas": 0.8,
+    "carboidratos": 8.2,
+    "gorduras": 0.2,
+    "fibras": 0.9
+  },
+  "morangos": {
+    "calorias": 32,
+    "proteinas": 0.7,
+    "carboidratos": 7.7,
+    "gorduras": 0.3,
+    "fibras": 2.0
+  },
+  "abobrinha": {
+    "calorias": 17,
+    "proteinas": 1.2,
+    "carboidratos": 3.1,
+    "gorduras": 0.3,
+    "fibras": 1.0
+  },
+  "pessego": {
+    "calorias": 39,
+    "proteinas": 0.9,
+    "carboidratos": 9.5,
+    "gorduras": 0.3,
+    "fibras": 1.5
+  },
+  "kiwi": {
+    "calorias": 61,
+    "proteinas": 1.1,
+    "carboidratos": 14.7,
+    "gorduras": 0.5,
+    "fibras": 3.0
+  },
+  "maca_verde": {
+    "calorias": 52,
+    "proteinas": 0.3,
+    "carboidratos": 13.8,
+    "gorduras": 0.2,
+    "fibras": 2.4
+  },
+  "caju": {
+    "calorias": 43,
+    "proteinas": 1.1,
+    "carboidratos": 10.2,
+    "gorduras": 0.2,
+    "fibras": 1.7
+  },
+  "ameixa": {
+    "calorias": 46,
+    "proteinas": 0.7,
+    "carboidratos": 11.4,
+    "gorduras": 0.3,
+    "fibras": 1.4
+  },
+  "damasco_seco": {
+    "calorias": 241,
+    "proteinas": 3.4,
+    "carboidratos": 62.6,
+    "gorduras": 0.5,
+    "fibras": 7.3
+  },
+  "uva_passas": {
+    "calorias": 299,
+    "proteinas": 3.1,
+    "carboidratos": 79.2,
+    "gorduras": 0.5,
+    "fibras": 3.7
+  },
+  "granola": {
+    "calorias": 471,
+    "proteinas": 9.7,
+    "carboidratos": 64.7,
+    "gorduras": 20.9,
+    "fibras": 8.3
+  },
+  "leite_integral": {
+    "calorias": 61,
+    "proteinas": 3.2,
+    "carboidratos": 4.8,
+    "gorduras": 3.3,
+    "fibras": 0.0
+  },
+  "iogurte_natural": {
+    "calorias": 59,
+    "proteinas": 3.5,
+    "carboidratos": 5.9,
+    "gorduras": 2.5,
+    "fibras": 0.0
+  },
+  "queijo_cottage": {
+    "calorias": 98,
+    "proteinas": 11.1,
+    "carboidratos": 3.4,
+    "gorduras": 4.3,
+    "fibras": 0.0
+  },
+  "queijo_mussarela": {
+    "calorias": 280,
+    "proteinas": 22.2,
+    "carboidratos": 2.2,
+    "gorduras": 20.5,
+    "fibras": 0.0
+  },
+  "ovos": {
+    "calorias": 155,
+    "proteinas": 13.0,
+    "carboidratos": 1.1,
+    "gorduras": 11.0,
+    "fibras": 0.0
+  },
+  "frango_peito": {
+    "calorias": 165,
+    "proteinas": 31.0,
+    "carboidratos": 0.0,
+    "gorduras": 3.6,
+    "fibras": 0.0
+  },
+  "frango_coxa": {
+    "calorias": 177,
+    "proteinas": 28.3,
+    "carboidratos": 0.0,
+    "gorduras": 6.2,
+    "fibras": 0.0
+  },
+  "carne_bovina_magra": {
+    "calorias": 250,
+    "proteinas": 26.1,
+    "carboidratos": 0.0,
+    "gorduras": 15.0,
+    "fibras": 0.0
+  },
+  "carne_suina_lombo": {
+    "calorias": 242,
+    "proteinas": 24.9,
+    "carboidratos": 0.0,
+    "gorduras": 14.0,
+    "fibras": 0.0
+  },
+  "peixe_salmao": {
+    "calorias": 206,
+    "proteinas": 22.1,
+    "carboidratos": 0.0,
+    "gorduras": 12.4,
+    "fibras": 0.0
+  },
+  "peixe_atum": {
+    "calorias": 144,
+    "proteinas": 23.3,
+    "carboidratos": 0.0,
+    "gorduras": 4.9,
+    "fibras": 0.0
+  },
+  "camarao": {
+    "calorias": 99,
+    "proteinas": 20.9,
+    "carboidratos": 0.2,
+    "gorduras": 1.7,
+    "fibras": 0.0
+  },
+  "lula": {
+    "calorias": 175,
+    "proteinas": 15.6,
+    "carboidratos": 7.7,
+    "gorduras": 8.3,
+    "fibras": 0.0
+  },
+  "azeite_oliva": {
+    "calorias": 884,
+    "proteinas": 0.0,
+    "carboidratos": 0.0,
+    "gorduras": 100.0,
+    "fibras": 0.0
+  },
+  "oleo_coco": {
+    "calorias": 862,
+    "proteinas": 0.0,
+    "carboidratos": 0.0,
+    "gorduras": 100.0,
+    "fibras": 0.0
+  },
+  "oleo_canola": {
+    "calorias": 884,
+    "proteinas": 0.0,
+    "carboidratos": 0.0,
+    "gorduras": 100.0,
+    "fibras": 0.0
+  },
+  "acucar": {
+    "calorias": 387,
+    "proteinas": 0.0,
+    "carboidratos": 100.0,
+    "gorduras": 0.0,
+    "fibras": 0.0
+  },
+  "mel": {
+    "calorias": 304,
+    "proteinas": 0.3,
+    "carboidratos": 82.4,
+    "gorduras": 0.0,
+    "fibras": 0.2
+  },
+  "geleia": {
+    "calorias": 250,
+    "proteinas": 0.4,
+    "carboidratos": 65.0,
+    "gorduras": 0.1,
+    "fibras": 0.0
+  },
+  "manteiga": {
+    "calorias": 717,
+    "proteinas": 0.9,
+    "carboidratos": 0.1,
+    "gorduras": 81.1,
+    "fibras": 0.0
+  },
+  "margarina": {
+    "calorias": 717,
+    "proteinas": 0.0,
+    "carboidratos": 0.0,
+    "gorduras": 81.7,
+    "fibras": 0.0
+  },
+  "pao_integral": {
+    "calorias": 247,
+    "proteinas": 8.7,
+    "carboidratos": 43.3,
+    "gorduras": 4.2,
+    "fibras": 7.0
+  },
+  "pao_frances": {
+    "calorias": 267,
+    "proteinas": 9.0,
+    "carboidratos": 51.0,
+    "gorduras": 3.1,
+    "fibras": 2.5
+  },
+  "arroz_branco": {
+    "calorias": 130,
+    "proteinas": 2.4,
+    "carboidratos": 28.0,
+    "gorduras": 0.3,
+    "fibras": 0.4
+  },
+  "arroz_integral": {
+    "calorias": 123,
+    "proteinas": 2.7,
+    "carboidratos": 25.6,
+    "gorduras": 1.0,
+    "fibras": 1.8
+  },
+  "feijao_preto": {
+    "calorias": 132,
+    "proteinas": 8.9,
+    "carboidratos": 23.7,
+    "gorduras": 0.5,
+    "fibras": 8.7
+  },
+  "feijao_carioca": {
+    "calorias": 127,
+    "proteinas": 8.5,
+    "carboidratos": 23.3,
+    "gorduras": 0.6,
+    "fibras": 8.4
+  },
+  "lentilha": {
+    "calorias": 116,
+    "proteinas": 9.0,
+    "carboidratos": 20.1,
+    "gorduras": 0.4,
+    "fibras": 7.9
+  },
+  "grao_de_bico": {
+    "calorias": 164,
+    "proteinas": 8.9,
+    "carboidratos": 27.4,
+    "gorduras": 2.6,
+    "fibras": 7.6
+  },
+  "ervilha": {
+    "calorias": 81,
+    "proteinas": 5.4,
+    "carboidratos": 14.5,
+    "gorduras": 0.4,
+    "fibras": 5.7
+  },
+  "soja": {
+    "calorias": 173,
+    "proteinas": 16.6,
+    "carboidratos": 9.9,
+    "gorduras": 9.0,
+    "fibras": 6.0
+  },
+  "milho_verde": {
+    "calorias": 86,
+    "proteinas": 3.2,
+    "carboidratos": 18.7,
+    "gorduras": 1.2,
+    "fibras": 2.7
+  },
+  "quinoa": {
+    "calorias": 120,
+    "proteinas": 4.1,
+    "carboidratos": 21.3,
+    "gorduras": 1.9,
+    "fibras": 2.8
+  },
+  "aveia": {
+    "calorias": 389,
+    "proteinas": 16.9,
+    "carboidratos": 66.3,
+    "gorduras": 6.9,
+    "fibras": 10.6
+  },
+  "chia": {
+    "calorias": 486,
+    "proteinas": 16.5,
+    "carboidratos": 42.1,
+    "gorduras": 30.7,
+    "fibras": 34.4
+  },
+  "linhaça": {
+    "calorias": 534,
+    "proteinas": 18.3,
+    "carboidratos": 28.9,
+    "gorduras": 42.2,
+    "fibras": 27.3
+  },
+  "semente_de_abobora": {
+    "calorias": 559,
+    "proteinas": 30.2,
+    "carboidratos": 10.7,
+    "gorduras": 49.1,
+    "fibras": 6.0
+  },
+  "amendoim": {
+    "calorias": 567,
+    "proteinas": 25.8,
+    "carboidratos": 16.1,
+    "gorduras": 49.2,
+    "fibras": 8.5
+  },
+  "castanha_de_caju": {
+    "calorias": 553,
+    "proteinas": 18.2,
+    "carboidratos": 30.2,
+    "gorduras": 43.9,
+    "fibras": 3.3
+  },
+  "noz": {
+    "calorias": 654,
+    "proteinas": 15.2,
+    "carboidratos": 13.7,
+    "gorduras": 65.2,
+    "fibras": 6.7
+  },
+  "amendoa": {
+    "calorias": 576,
+    "proteinas": 21.2,
+    "carboidratos": 21.7,
+    "gorduras": 49.4,
+    "fibras": 12.5
+  },
+  "pistache": {
+    "calorias": 562,
+    "proteinas": 20.2,
+    "carboidratos": 27.2,
+    "gorduras": 45.4,
+    "fibras": 10.3
+  },
+  "abacate": {
+    "calorias": 160,
+    "proteinas": 2.0,
+    "carboidratos": 8.5,
+    "gorduras": 14.7,
+    "fibras": 6.7
+  },
+  "coco": {
+    "calorias": 354,
+    "proteinas": 3.3,
+    "carboidratos": 15.2,
+    "gorduras": 33.5,
+    "fibras": 9.0
+  },
+  "acai": {
+    "calorias": 70,
+    "proteinas": 0.9,
+    "carboidratos": 6.0,
+    "gorduras": 4.5,
+    "fibras": 2.0
+  },
+  "kiwi": {
+    "calorias": 61,
+    "proteinas": 1.1,
+    "carboidratos": 14.7,
+    "gorduras": 0.5,
+    "fibras": 3.0
+  },
+  "mamao": {
+    "calorias": 43,
+    "proteinas": 0.5,
+    "carboidratos": 10.8,
+    "gorduras": 0.3,
+    "fibras": 1.7
+  },
+  "morango": {
+    "calorias": 32,
+    "proteinas": 0.7,
+    "carboidratos": 7.7,
+    "gorduras": 0.3,
+    "fibras": 2.0
+  },
+  "mirtilo": {
+    "calorias": 57,
+    "proteinas": 0.7,
+    "carboidratos": 14.5,
+    "gorduras": 0.3,
+    "fibras": 2.4
+  },
+  "framboesa": {
+    "calorias": 52,
+    "proteinas": 1.2,
+    "carboidratos": 11.9,
+    "gorduras": 0.7,
+    "fibras": 6.5
+  },
+  "amora": {
+    "calorias": 43,
+    "proteinas": 1.4,
+    "carboidratos": 9.6,
+    "gorduras": 0.5,
+    "fibras": 5.3
+  },
+  "cereja": {
+    "calorias": 63,
+    "proteinas": 1.1,
+    "carboidratos": 16.0,
+    "gorduras": 0.2,
+    "fibras": 2.1
+  },
+  "nectarina": {
+    "calorias": 44,
+    "proteinas": 1.1,
+    "carboidratos": 10.6,
+    "gorduras": 0.3,
+    "fibras": 1.7
+  },
+  "tangerina": {
+    "calorias": 53,
+    "proteinas": 0.8,
+    "carboidratos": 13.3,
+    "gorduras": 0.3,
+    "fibras": 1.8
+  },
+  "pessego": {
+    "calorias": 39,
+    "proteinas": 0.9,
+    "carboidratos": 9.5,
+    "gorduras": 0.3,
+    "fibras": 1.5
+  },
+  "melao": {
+    "calorias": 34,
+    "proteinas": 0.8,
+    "carboidratos": 8.2,
+    "gorduras": 0.2,
+    "fibras": 0.9
+  },
+  "abobora": {
+    "calorias": 26,
+    "proteinas": 1.0,
+    "carboidratos": 6.5,
+    "gorduras": 0.1,
+    "fibras": 0.5
+  },
+  "espinafre": {
+    "calorias": 23,
+    "proteinas": 2.9,
+    "carboidratos": 3.6,
+    "gorduras": 0.4,
+    "fibras": 2.2
+  },
+  "brocolis": {
+    "calorias": 34,
+    "proteinas": 2.8,
+    "carboidratos": 6.6,
+    "gorduras": 0.4,
+    "fibras": 2.6
+  },
+  "couve_flor": {
+    "calorias": 25,
+    "proteinas": 1.9,
+    "carboidratos": 4.9,
+    "gorduras": 0.3,
+    "fibras": 2.0
+  },
+  "repolho": {
+    "calorias": 25,
+    "proteinas": 1.3,
+    "carboidratos": 5.8,
+    "gorduras": 0.1,
+    "fibras": 2.5
+  },
+  "couve": {
+    "calorias": 49,
+    "proteinas": 4.3,
+    "carboidratos": 8.8,
+    "gorduras": 0.9,
+    "fibras": 3.6
+  },
+  "alface": {
+    "calorias": 15,
+    "proteinas": 1.4,
+    "carboidratos": 2.9,
+    "gorduras": 0.2,
+    "fibras": 1.3
+  },
+  "rucula": {
+    "calorias": 25,
+    "proteinas": 2.6,
+    "carboidratos": 3.7,
+    "gorduras": 0.7,
+    "fibras": 1.6
+  },
+  "aspargo": {
+    "calorias": 20,
+    "proteinas": 2.2,
+    "carboidratos": 3.9,
+    "gorduras": 0.1,
+    "fibras": 2.1
+  },
+  "alcachofra": {
+    "calorias": 47,
+    "proteinas": 3.3,
+    "carboidratos": 10.5,
+    "gorduras": 0.2,
+    "fibras": 5.4
+  },
+  "cenoura": {
+    "calorias": 41,
+    "proteinas": 0.9,
+    "carboidratos": 9.6,
+    "gorduras": 0.2,
+    "fibras": 2.8
+  },
+  "beterraba": {
+    "calorias": 43,
+    "proteinas": 1.6,
+    "carboidratos": 9.6,
+    "gorduras": 0.2,
+    "fibras": 2.8
+  },
+  "rabanete": {
+    "calorias": 16,
+    "proteinas": 0.7,
+    "carboidratos": 3.4,
+    "gorduras": 0.1,
+    "fibras": 1.6
+  },
+  "pimentao": {
+    "calorias": 20,
+    "proteinas": 0.9,
+    "carboidratos": 4.6,
+    "gorduras": 0.2,
+    "fibras": 1.5
+  }
+}
